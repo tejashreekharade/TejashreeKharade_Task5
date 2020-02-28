@@ -1,0 +1,5 @@
+2020-02-28 10:56:47 INFO  Main:15 - Enter principle amount
+2020-02-28 10:56:53 INFO  Main:17 - Enter time period
+2020-02-28 10:56:55 INFO  Main:19 - Enter rate of interest
+2020-02-28 10:56:58 INFO  Main:24 - Your Simple Interest is 1500.0
+2020-02-28 10:56:58 INFO  Main:25 - Your Compound Interest is 11592.739
